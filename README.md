@@ -25,6 +25,8 @@ server.
 - **Images:** Eric Londaits
 - **Game engine:** Eric Londaits and Christian Stussak (see [Citizen Quest](https://github.com/IMAGINARY/citizen-quest)).
 
+This project was funded by [MaRDI](www.mardi4nfdi.de/).
+
 ## License
 
 Code licensed under the MIT License. See [LICENSE](LICENSE) for details.

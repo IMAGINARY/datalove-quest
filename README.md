@@ -1,25 +1,34 @@
-# datalove-quest
+# Data ❤️ Quest
 
-Variant of Citizen Quest for the MaRDI Love Data Week 2024.
+A game about math, open data and love for the MaRDI Love Data Week 2024.
+
+Based on the interactive exhibit [Citizen Quest](https://github.com/IMAGINARY/citizen-quest), 
+developed by [Imaginary](https://about.imaginary.org/) for [Futurium](https://futurium.de/de/citizen-quest).
+
+## Building
+
+Requires Node.js (v18.19 or greater) and npm.
+
+Run the following from the root directory of the project:
+
+```bash
+npm install
+npm run build
+```
+
+This will create a `dist` directory with the compiled game. This directory can be served by any web 
+server.
+
+## Credits
+
+- **Story:** Bianca Violet, Christiane Görgen, Tabea Bacher, Daniel Ramos, and Andreas Matt
+- **Images:** Eric Londaits
+- **Game engine:** Eric Londaits and Christian Stussak (see [Citizen Quest](https://github.com/IMAGINARY/citizen-quest)).
 
 ## License
 
-Code licensed under the MIT License.
+Code licensed under the MIT License. See [LICENSE](LICENSE) for details.
+Images licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+See [static/LICENSE.datalove-quest.txt](static/LICENSE.datalove-quest.txt) for details.
 
-All images are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
-
-Some emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0
-
-See LICENSE.txt for more information.
-
-Used emojis:
-
-- 2764.svg
-    - Used for love-icon.ai. Recolored.
-- 1F310.svg
-    - Used within conference.ai.
-- E258.svg
-    - Used within conference.ai.
-
-All other images are original works by Imaginary gGmbH.
 Copyright 2024 Imaginary gGmbH.

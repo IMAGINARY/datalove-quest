@@ -31,6 +31,6 @@ This project was funded by [MaRDI](www.mardi4nfdi.de/).
 
 Code licensed under the MIT License. See [LICENSE](LICENSE) for details.
 Images licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
-See [static/LICENSE.datalove-quest.txt](static/LICENSE.datalove-quest.txt) for details.
+See [extras/static/README-datalove-quest.md](extras/static/README-datalove-quest.md) for details.
 
 Copyright 2024 Imaginary gGmbH.
